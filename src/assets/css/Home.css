@@ -1,0 +1,56 @@
+.Home{
+	max-Width:100%;
+	max-Height:100%;
+	margin:0;
+	height:auto;
+}
+
+.Home-Top{
+	height:auto;
+	background:white;
+}
+
+.Home-Bottom{
+	height:auto;
+	background:#916BBF;
+}
+
+.Home-Top-Col{
+	align-self:center;
+}
+
+.Home-Top-Button{
+	border-radius: 2rem !important;
+	width: 300px;
+}
+
+.img-carousel{
+	display: block;
+	margin:0 auto;
+	width:auto;
+	height:40vh;	
+}
+
+.Home-Bottom-Header{
+	text-align: center;
+	color:white;
+}
+
+.Home-Bottom-Hard{
+	text-align:center;
+	color:white;
+}
+
+.Home-Bottom-Card{
+	margin:2px auto;
+	border:none !important;
+}
+
+.Home-Bottom-Card-Body{
+	background:#916BBF;
+	text-align:center;
+}
+
+.Home-Bottom-Card-Title{
+	color:white;
+}

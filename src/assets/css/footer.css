@@ -1,0 +1,13 @@
+.footer {
+    background-color: #FF7878;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    color: white;
+  }
+
+  .imgfooter{
+    width: 25%;
+    margin:auto;
+  }
